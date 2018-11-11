@@ -30,7 +30,7 @@
 				}
 		});
 
-	
+	  	
  
 	function searchViaAjax() {
 		alert("<%=request.getContextPath()%>");
